@@ -22,10 +22,10 @@
 🔭 &nbsp;Estudiante de Ingeniería de Sistemas en la Universidad Pablo de Olavide, Sevilla.\
 🌱 &nbsp;Actualmente estudiando en una de las Universidades Tecnológicas más importantes de Bucharest (RAU).\
 🛠️ &nbsp;Estoy trabajando por cuenta propia en el desarrollo de un videojuego y una página web.\
-💼 &nbsp;En busqueda de practicas de trabajo.\
+<!--💼 &nbsp;En busqueda de practicas de trabajo.\
 💡 &nbsp;Me encanta aprender cosas nuevas y ponerme nuevos retos.\
-💬 &nbsp;Me considero una persona comunicativa, que le encanta trabajar en grupo y trabajo bien bajo presión.\
-✉️ &nbsp;Si quieres contactar conmigo escribeme: alejandrorondangarcia@gmail.com. Responderé lo antes posible.\
+💬 &nbsp;Me considero una persona comunicativa, que le encanta trabajar en grupo y trabajo bien bajo presión.\ -->
+✉️ &nbsp;Para contactar conmigo: alejandrorondangarcia@gmail.com. Responderé lo antes posible.\
 
 <div align="center"> </div>
 
