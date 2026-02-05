@@ -6,7 +6,7 @@
   <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 </p>  
 
-<h2 align="center">Buenaas 👋❤️, Soy Alejandro!</h2>
+<h2 align="center">Soy Alejandro!</h2>
 
 
 ## 💻 Tech Stack:
@@ -20,8 +20,8 @@
 ## 👨🏻‍💻 Sobre mi
 
 🔭 &nbsp;Estudiante de Ingeniería de Sistemas en la Universidad Pablo de Olavide, Sevilla.\
-🌱 &nbsp;Actualmente de Erasmus en una de las Universidades Tecnológicas más importantes de Bucharest (RAU).\
-🛠️ &nbsp;Estoy trabajando por cuenta propia en el desarrollo de un videojuego y una página web.\
+🌱 &nbsp;**** (RAU).\
+🛠️ &nbsp;***.\
 <!--💼 &nbsp;En busqueda de practicas de trabajo.\
 💡 &nbsp;Me encanta aprender cosas nuevas y ponerme nuevos retos.\
 💬 &nbsp;Me considero una persona comunicativa, que le encanta trabajar en grupo y trabajo bien bajo presión.\ -->
